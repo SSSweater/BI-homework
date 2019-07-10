@@ -1,0 +1,2 @@
+# BusinessIntelligenceHW
+Business Intelligence homework
